@@ -1,9 +1,8 @@
-# Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques for the the following Prompt Engineering types with examples - Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
+Ex.No.: 3 – Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 
-### DATE:   27-9-25                                                                         
-### REGISTER NUMBER : 212222060215
+DATE: ___________
+REGISTER NUMBER: ___________
 
-```
 Aim:
 To write prompts for the following prompt types and evaluate them using any one method:
 
@@ -14,15 +13,10 @@ Tabular Format Prompting
 Preceding Question Prompting
 
 Missing Word Prompting
-```
-
-```
 
 Explanation:
 A use case from Unit 5 (for example: Photosynthesis and Renewable Energy) is selected. The prompts are generated using Unit 2 prompt types to evaluate the response quality and relevance.
-```
 
-```
 Procedure and Examples:
 
 1. Straightforward Prompts:
@@ -70,17 +64,8 @@ Response: "Paris"
 Prompt: "In photosynthesis, plants absorb sunlight to produce ____."
 Response: "Glucose"
 
-```
-
-```
-
 Conclusion:
 The various types of prompts were successfully executed, demonstrating how different prompting techniques—straightforward, tabular, preceding question, and missing word—can be utilized to generate structured and meaningful responses. This approach helps in evaluating AI understanding, accuracy, and format handling.
 
-```
-
-```
 Result:
 All prompt types were executed successfully, generating the expected outputs and the report.
-
-```
