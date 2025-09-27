@@ -1,7 +1,7 @@
 # Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques for the the following Prompt Engineering types with examples - Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
 
-### DATE:16.09.2025                                                                           
-### REGISTER NUMBER :212222060002
+### DATE:25.09.2025                                                                           
+### REGISTER NUMBER :212222060215
 ### Aim:
 
 To demonstrate four prompt engineering types (Straightforward, Tabular, Preceding Question, Missing Word) for the chosen use case from **Modulation Techniques for Multimedia Signals**, and evaluate them using **Tabular Format Prompting**.
